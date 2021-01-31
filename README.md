@@ -1,16 +1,13 @@
-### Hi there 👋
+## Natália Francisco
 
-<!--
-**natalia-fs/natalia-fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação pela UFRRJ e atualmente estagiando com desenvolvimento web na [Lemobs](https://lemobs.com.br/).
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-Natália%20F.%20da%20Silva-0a66c2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-f-da-silva/)](https://www.linkedin.com/in/natalia-f-da-silva/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/natalia-fs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natalia-fs&theme=jolly&show_icons=true&hide_rank=true&langs_count=6&hide=issues" />
+</a>
+<a href="https://github.com/natalia-fs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&layout=compact&theme=jolly" />
+</a>
