@@ -6,8 +6,8 @@ Estudante de Ciência da Computação pela UFRRJ e atualmente estagiando com des
 
 
 <a href="https://github.com/natalia-fs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natalia-fs&theme=jolly&show_icons=true&hide_rank=true&langs_count=6&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natalia-fs&theme=jolly&show_icons=true&hide_rank=true&hide=issues" />
 </a>
 <a href="https://github.com/natalia-fs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&layout=compact&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&layout=compact&theme=jolly" />
 </a>
