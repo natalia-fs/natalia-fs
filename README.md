@@ -14,4 +14,4 @@ ___
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natalia-fs&theme=jolly" alt="stats" />
 </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&theme=jolly" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&theme=jolly&layout=compact" />
