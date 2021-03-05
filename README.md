@@ -10,10 +10,8 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=natalia-fs&theme=jolly&show_icons=true&hide=issues" />
 </a>
 
-<a href="https://github.com/natalia-fs" style="width: 50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&theme=jolly" />
-</a>
-
 <a href="https://github.com/natalia-fs">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natalia-fs&theme=jolly" alt="stats" />
 </a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&theme=jolly" />
