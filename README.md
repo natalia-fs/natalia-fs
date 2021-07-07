@@ -1,6 +1,6 @@
 # Natália Francisco
 
-Estudante de Ciência da Computação pela UFRRJ e atualmente estagiando com desenvolvimento web na [Lemobs](https://lemobs.com.br/).
+Estudante de Ciência da Computação pela UFRRJ e atualmente dev Front-end (Jr) na [Lemobs](https://lemobs.com.br/).
 
 <div width="100%" align="center">
   <a width="50%" href="https://www.linkedin.com/in/natalia-f-da-silva/">
@@ -25,15 +25,15 @@ Estudante de Ciência da Computação pela UFRRJ e atualmente estagiando com des
 ___
 
 <div width="100%" align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=natalia-fs&theme=omni&show_icons=true&hide=issues" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=natalia-fs&theme=omni&show_icons=true&hide=issues" />
 </div>
 
 <div width="100%" align="center">
-  <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&theme=omni&layout=compact" />
+  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&theme=omni&layout=compact" />
 </div>
 
 <div width="100%" align="center">
   <a href="https://github.com/natalia-fs">
-    <img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natalia-fs&theme=omni" alt="stats" />
+    <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natalia-fs&theme=omni" alt="stats" />
   </a>
 </div>
