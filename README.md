@@ -1,6 +1,6 @@
 # Natália Francisco
 
-Estudante de Ciência da Computação pela UFRRJ e atualmente dev Front-end (Jr) na [Lemobs](https://lemobs.com.br/).
+Estudante de Ciência da Computação pela UFRRJ e atualmente dev Fullstack (Jr) na [Lemobs](https://lemobs.com.br/).
 
 <div width="100%" align="center">
   <a width="50%" href="https://www.linkedin.com/in/natalia-f-da-silva/">
