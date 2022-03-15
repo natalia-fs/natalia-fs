@@ -13,27 +13,13 @@ Estudante de Ciência da Computação pela UFRRJ e atualmente dev Fullstack (Jr)
 
 </div>
 
-## Meus repositórios favoritos
+___
 
-<div width="100%" align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natalia-fs&repo=aprendendo-css&theme=omni)](https://github.com/natalia-fs/aprendendo-css)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natalia-fs&repo=frontweek-hollowknight&theme=omni)](https://github.com/natalia-fs/frontweek-hollowknight)
-
-</div>
+| <img src="https://github-readme-stats.vercel.app/api?username=natalia-fs&theme=omni&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=natalia-fs&theme=omni" alt="stats" /> |
+|:---:|:---:|
 
 ___
 
 <div width="100%" align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=natalia-fs&theme=omni&show_icons=true&hide=issues" />
-</div>
-
-<div width="100%" align="center">
   <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&theme=omni&layout=compact" />
-</div>
-
-<div width="100%" align="center">
-  <a href="https://github.com/natalia-fs">
-    <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natalia-fs&theme=omni" alt="stats" />
-  </a>
 </div>
