@@ -1,15 +1,13 @@
-# Natália Francisco
+# Natália F. da Silva
 
-Estudante de Ciência da Computação pela UFRRJ e atualmente dev Fullstack (Jr) na [Lemobs](https://lemobs.com.br/).
+Desenvolvedora Front-end, criadora de conteúdo sobre desenvolvimento web, aluna de Ciência da Computação na UFRRJ, e Alura Star 🌟
 
 <div width="100%" align="center">
-  <a width="50%" href="https://www.linkedin.com/in/natalia-f-da-silva/">
-    <img src="https://img.shields.io/badge/-Natália%20F.%20da%20Silva-0a66c2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-f-da-silva/"/>
-  </a>
   
-  <a width="50%" href="https://www.youtube.com/channel/UCejE_7cOzLswV5HJebvgQIA">
-    <img src="https://img.shields.io/badge/-Natália%20FS-ff0000?logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCejE_7cOzLswV5HJebvgQIA"/>
-  </a>
+  [![Youtube Badge](https://img.shields.io/badge/Natália%20F.%20Dev-ff0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/nataliafdev)](https://www.youtube.com/c/nataliafdev)
+  [![Linkedin Badge](https://img.shields.io/badge/Natália%20F.%20da%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-f-da-silva)](https://www.linkedin.com/in/natalia-f-da-silva)
+  [![Tiktok Badge](https://img.shields.io/badge/Natália%20F.%20Dev-000000?style=for-the-badge&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@nataliafdev)](https://www.tiktok.com/@nataliafdev)
+  [![Instagram Badge](https://img.shields.io/badge/Natália%20F.%20Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nataliafdev)](https://www.instagram.com/nataliafdev)
 
 </div>
 
