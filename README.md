@@ -1,6 +1,6 @@
-# Natália F. da Silva
+# Natália F. da Silva (Natália F. Dev)
 
-Desenvolvedora Front-end, criadora de conteúdo sobre desenvolvimento web, aluna de Ciência da Computação na UFRRJ, e Alura Star 🌟
+Desenvolvedora Front-end, criadora de conteúdo, aluna de Ciência da Computação na UFRRJ, e Alura Star 🌟
 
 <div width="100%" align="center">
   
@@ -13,11 +13,11 @@ Desenvolvedora Front-end, criadora de conteúdo sobre desenvolvimento web, aluna
 
 ___
 
-| <img src="https://github-readme-stats.vercel.app/api?username=natalia-fs&theme=omni&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=natalia-fs&theme=omni" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=natalia-fs&theme=shades-of-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=natalia-fs&theme=shades-of-purple" alt="stats" /> |
 |:---:|:---:|
 
 ___
 
 <div width="100%" align="center">
-  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&theme=omni&layout=compact" />
+  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&theme=shades-of-purple&layout=compact" />
 </div>
