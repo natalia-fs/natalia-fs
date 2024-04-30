@@ -1,6 +1,6 @@
 # Natália F. da Silva (Natália F. Dev)
 
-Desenvolvedora Front-end, criadora de conteúdo, aluna de Ciência da Computação na UFRRJ, e Alura Star 🌟
+Desenvolvedora Front-end, criadora de conteúdo, Tech Community Manager, Co-fundadora da [@techinrio](https://www.instagram.com/techinrio/) e palestrante nas horas vagas 💖
 
 <div width="100%" align="center">
   
@@ -17,7 +17,8 @@ ___
 |:---:|:---:|
 
 ___
-
+<!--
 <div width="100%" align="center">
   <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-fs&langs_count=6&theme=shades-of-purple&layout=compact" />
 </div>
+-->
